@@ -1,0 +1,5 @@
+Total number of alphabets-44
+Total number of consonants-28
+Total number of vowels-16
+Total number of words-9
+Total number of sentence-2
